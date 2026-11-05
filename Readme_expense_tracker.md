@@ -3,6 +3,9 @@
 # 🧊 3D Command-Line Expense Tracker & Financial Intelligence Engine
 ### *Zero-Dependency Python Standard Library • Atomic JSON Persistence • Dynamic Budget Guardrails • Category Intelligence*
 
+[![Project Page](https://img.shields.io/badge/roadmap.sh-Project%20Page-blue?style=for-the-badge&logo=target)](https://roadmap.sh/projects/expense-tracker)
+[![Repository](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/Paradoxai77/Expense-tracker-)
+
 ![Python Version](https://img.shields.io/badge/python-3.10%2B-blue.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Dependencies](https://img.shields.io/badge/dependencies-Standard%20Library%20(Zero%20Req)-brightgreen.svg?style=for-the-badge)
 ![Storage](https://img.shields.io/badge/storage-Atomic%20JSON%20Engine-orange.svg?style=for-the-badge)
@@ -15,7 +18,19 @@
   <b>An enterprise-grade, standard-library-only Command-Line Interface (CLI) application for personal expense tracking, monthly budget threshold monitoring, category classification, atomic local persistence, and CSV export.</b>
 </p>
 
+<p align="center">
+  <b>Project URL:</b> <a href="https://roadmap.sh/projects/expense-tracker">https://roadmap.sh/projects/expense-tracker</a><br>
+  <b>GitHub Repository:</b> <a href="https://github.com/Paradoxai77/Expense-tracker-">https://github.com/Paradoxai77/Expense-tracker-</a>
+</p>
+
 </div>
+
+---
+
+## 🔗 Project Information & URLs
+
+- **Roadmap.sh Challenge URL:** https://roadmap.sh/projects/expense-tracker
+- **GitHub Repository URL:** https://github.com/Paradoxai77/Expense-tracker-
 
 ---
 
